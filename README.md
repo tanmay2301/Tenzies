@@ -29,7 +29,11 @@ Tenzies is a fun and engaging dice game built with React. The objective of the g
   4. Once you achieve the goal, the "New Game" button will appear. Click it to start a new game.
 
 ## Game Preview
-![Tenzies Game](https://github.com/user-attachments/assets/580257dc-a1f7-4650-882c-e720f1f157f1)
+
+### Video: ![Tenzies Game](https://github.com/user-attachments/assets/580257dc-a1f7-4650-882c-e720f1f157f1)
+
+![image](https://github.com/user-attachments/assets/a743a744-389a-4891-9e35-0ae6d9cdb9d7)
+
 
 
 
