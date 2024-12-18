@@ -30,7 +30,7 @@ Tenzies is a fun and engaging dice game built with React. The objective of the g
 
 ## Game Preview
 
-### Video: ![Tenzies Game](https://github.com/user-attachments/assets/580257dc-a1f7-4650-882c-e720f1f157f1)
+### Video Link: ![Tenzies Game](https://github.com/user-attachments/assets/580257dc-a1f7-4650-882c-e720f1f157f1)
 
 ![image](https://github.com/user-attachments/assets/a743a744-389a-4891-9e35-0ae6d9cdb9d7)
 
